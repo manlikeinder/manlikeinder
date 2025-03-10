@@ -1,4 +1,3 @@
-<iframe src="https://gifer.com/embed/Fg1M" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
  
 <h1 align="center">Hi 👋, I'm Inderpreet</h1>
 <h3 align="center">A passionate FullStack Developer from Punjab, India</h3>
