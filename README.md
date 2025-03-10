@@ -1,4 +1,4 @@
-<div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/Fg1M" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<iframe src="https://gifer.com/embed/Fg1M" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
  
 <h1 align="center">Hi 👋, I'm Inderpreet</h1>
 <h3 align="center">A passionate FullStack Developer from Punjab, India</h3>
