@@ -1,4 +1,4 @@
-![Github GIF](https://github.com/user-attachments/assets/f52fef5c-264b-40ee-854c-9ca5ce8e9610)
+           <img src="https://github.com/user-attachments/assets/e8d4efa0-4aa3-4875-bcd9-1fe0a3169961">
 <h1 align="center">Hi 👋, I'm Inderpreet</h1>
 <h3 align="center">A passionate FullStack Developer from Punjab, India</h3>
 <p>&nbsp;</p>
