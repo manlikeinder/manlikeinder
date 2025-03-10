@@ -1,4 +1,4 @@
-           <img src="https://github.com/user-attachments/assets/e8d4efa0-4aa3-4875-bcd9-1fe0a3169961">
+<img src="https://github.com/user-attachments/assets/e8d4efa0-4aa3-4875-bcd9-1fe0a3169961">
 <h1 align="center">Hi 👋, I'm Inderpreet</h1>
 <h3 align="center">A passionate FullStack Developer from Punjab, India</h3>
 <p>&nbsp;</p>
@@ -14,7 +14,7 @@
  
 - 💬 Ask me about **React-js, JavaScript**
  
-- 📫 How to reach me **awaisdanish66@gmail.com**
+- 📫 How to reach me **contact.inderpreetsingh@gmail.com**
  
 - ⚡ Fun fact **Learning New Things**
  
